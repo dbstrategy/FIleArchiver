@@ -1,0 +1,10 @@
+E:\Work\Digipioneer\FileArchive\FileArchive\bin\Debug\FileArchive.exe.config
+E:\Work\Digipioneer\FileArchive\FileArchive\bin\Debug\FileArchive.exe
+E:\Work\Digipioneer\FileArchive\FileArchive\bin\Debug\FileArchive.pdb
+E:\Work\Digipioneer\FileArchive\FileArchive\bin\Debug\FileArchive.xml
+E:\Work\Digipioneer\FileArchive\FileArchive\obj\Debug\FileArchive.Resources.resources
+E:\Work\Digipioneer\FileArchive\FileArchive\obj\Debug\FileArchive.FileArchiverProjectInstaller.resources
+E:\Work\Digipioneer\FileArchive\FileArchive\obj\Debug\FileArchive.vbproj.GenerateResource.Cache
+E:\Work\Digipioneer\FileArchive\FileArchive\obj\Debug\FileArchive.exe
+E:\Work\Digipioneer\FileArchive\FileArchive\obj\Debug\FileArchive.xml
+E:\Work\Digipioneer\FileArchive\FileArchive\obj\Debug\FileArchive.pdb
